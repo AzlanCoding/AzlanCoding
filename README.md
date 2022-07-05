@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### See my Blog at [azlancoding.github.io](https://azlancoding.github.io)
 
 <!--
 **AzlanCoding/azlancoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
